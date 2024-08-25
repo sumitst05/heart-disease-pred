@@ -17,7 +17,7 @@ This project is just me trying to get my hands dirty with a little bit of ML mag
 
 ### Starting the FastAPI Application
 
-1. **Install Dependencies**: Make sure you have all required packages installed. You can install them using `pip`:
+1. **Install Dependencies**: Make sure you have all required packages installed. You can install them using:
    ```bash
    pip install -r requirements.txt
 
