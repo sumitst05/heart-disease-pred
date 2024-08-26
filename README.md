@@ -5,12 +5,9 @@ This project is just me trying to get my hands dirty with a little bit of ML mag
 ## Project Structure
 
 - `app/`: Has got the FastAPI application code.
-- `src/`: Contains model files and related utilities.
-  - `models/`: Has the pre-trained model file `heart_model.pkl`.
-- `data/`: Dataset used for model training ([heart.csv](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data))
-- `colab_notebooks/`: Contains Jupyter Notebooks used for developing and testing the model.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
-- `README.md`: This file.
+- `src/models/`: Has the pre-trained model file `heart_model.pkl`.
+- `src/data/`: Dataset used for model training ([heart.csv](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data))
+- `notebooks/`: Contains Jupyter Notebooks used for developing and testing the model.
 - `requirements.txt`: Lists the Python dependencies for the project.
 
 ## How to Use
